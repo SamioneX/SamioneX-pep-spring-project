@@ -20,7 +20,6 @@ import static org.springframework.boot.SpringApplication.run;
 @SpringBootApplication
 @EnableAutoConfiguration
 @Controller
-
 public class SocialMediaApp {
 
     public static void main(String[] args) {
